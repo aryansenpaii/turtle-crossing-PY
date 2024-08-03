@@ -28,5 +28,3 @@ To install and run the Turtle Crossing Game on your local machine:
    ```
 
 Enjoy playing the game! 🐢✨
-
-```
