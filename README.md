@@ -1,6 +1,4 @@
-Certainly! Here’s a concise README file that focuses solely on installation instructions:
 
-```markdown
 # Turtle Crossing Game
 
 Welcome to the **Turtle Crossing Game**! 🐢🌉 A fun Python game built using the `turtle` library and Object-Oriented Programming (OOP) principles.
